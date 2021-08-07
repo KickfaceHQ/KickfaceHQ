@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KickfaceHQ - Daniel Kickface
-- 👀 I’m interested in PHP, JS, CSS, HTML, PYTHON, VB
+- 👀 I’m interested in PHP, JS, CSS, HTML, PYTHON, VB, MySQL, SQL
 - 🌱 I’m currently learning as much as I can
 - 💞️ I’m looking to collaborate on Discord Bot projects
 - 📫 How to reach me github@kickfacehq.com
